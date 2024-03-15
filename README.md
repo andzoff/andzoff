@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @andzoff
 - 👀 I’m interested in programming and teaching Java and C++
 - 🌱 I’m currently learning AI
-- 💞️ I’m a fun of Lazio football team
+- 💞️ I’m a fun of Lazio football team (Italy)
 - 📫 How to reach me andrea@scuoladijava.it
-- 😄 Pronouns: I am on Mastodon and no other socials
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't like to be spied by Google and/or any other.
 
 <!---
